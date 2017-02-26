@@ -1,0 +1,5 @@
+b[1] is dating with g[3]
+b[2] is dating with g[1]
+b[6] is dating with g[4]
+b[5] is dating with g[2]
+b[3] is dating with g[0]
